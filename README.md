@@ -8,3 +8,4 @@ doubleAndReturnArgs([1, 2, 3], 4, 4);
 doubleAndReturnArgs([2], 10, 4); 
 // expexted result: [2, 20, 8]
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
